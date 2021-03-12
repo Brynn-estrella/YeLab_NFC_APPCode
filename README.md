@@ -1,2 +1,2 @@
 # YeLab_NFC_APPCode
-APP development for Android NFC system
+APP code for Android NFC system
